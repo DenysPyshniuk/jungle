@@ -1,2 +1,16 @@
-<h1>Admin::Dashboard#show</h1>
-<p>Find me in app/views/admin/dashboard/show.html.erb</p>
+<h1>Admin Deshboard</h1>
+
+<ul class="list-group">
+  <a href="/admin/products" class="link">
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+    Total Products:
+    <span class="badge badge-primary badge-pill"><%= @products_amount %> </span>
+  </li>
+  </a>
+  <a href="/" class="link">
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+    Total Categories:
+    <span class="badge badge-primary badge-pill"><%= @categories_amount %></span>
+  </li>
+  </li>
+</ul>
