@@ -21,13 +21,12 @@ require 'rails_helper'
     # ACT
     visit root_path
 
+    # DEBUG
+    save_screenshot
+
     # VERIFY
     first('article.product').find_link('Details').click
     expect(page).to have_css '.dl-horizontal'
 
-    # DEBUG
-    save_screenshot
-
   end
-
 end
