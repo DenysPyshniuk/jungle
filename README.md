@@ -2,6 +2,9 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+!["Home page"](https://github.com/DenysPyshniuk/resourceWall/blob/master/public/images/gitHub_screenshots/Screenshot-20210115175647-1918x974.png?raw=true)
+!["My posts"](https://github.com/DenysPyshniuk/resourceWall/blob/master/public/images/gitHub_screenshots/Screenshot-20210115175702-1918x974.png?raw=true)
+!["Profile page"](https://github.com/DenysPyshniuk/resourceWall/blob/master/public/images/gitHub_screenshots/Screenshot-20210115175726-1641x653.png?raw=true)
 
 ## Setup
 
@@ -22,6 +25,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Dependencies
 
-* Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
-* PostgreSQL 9.x
-* Stripe
+- Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
+- PostgreSQL 9.x
+- Stripe
