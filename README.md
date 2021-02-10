@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Ruby, Rails. Tested with Capybara testing Framework. Build with the purpose of the study Ruby on Rails in one week.
 
 !["Home page"](https://github.com/DenysPyshniuk/jungle/blob/master/docs/images/1.1.png?raw=true)
 !["Product"](https://github.com/DenysPyshniuk/jungle/blob/master/docs/images/1.2.png?raw=true)
