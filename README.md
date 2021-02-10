@@ -2,9 +2,9 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
-!["Home page"](https://github.com/DenysPyshniuk/resourceWall/blob/master/public/images/gitHub_screenshots/Screenshot-20210115175647-1918x974.png?raw=true)
-!["My posts"](https://github.com/DenysPyshniuk/resourceWall/blob/master/public/images/gitHub_screenshots/Screenshot-20210115175702-1918x974.png?raw=true)
-!["Profile page"](https://github.com/DenysPyshniuk/resourceWall/blob/master/public/images/gitHub_screenshots/Screenshot-20210115175726-1641x653.png?raw=true)
+!["Home page"](https://github.com/DenysPyshniuk/jungle/blob/master/docs/images/1.1.png?raw=true)
+!["Product"](https://github.com/DenysPyshniuk/jungle/blob/master/docs/images/1.2.png?raw=true)
+!["Admin"](https://github.com/DenysPyshniuk/jungle/blob/master/docs/images/2.png?raw=true)
 
 ## Setup
 
